@@ -118,7 +118,7 @@ echo ""
 
 #install sqlmap
 echo "${BLUE} installing sqlmap${RESET}"
-sudo apt-fast install sqlmap
+sudo apt-fast install -y sqlmap
 echo "${BLUE} done${RESET}"
 echo ""
 
@@ -168,7 +168,7 @@ echo "${BLUE} done${RESET}"
 echo ""
 
 echo "${BLUE} installing wfuzz${RESET}"
-sudo apt-fast install wfuzz
+sudo apt-fast install -y wfuzz
 echo "${BLUE} done${RESET}"
 echo ""
 sar 1 1 >/dev/null
