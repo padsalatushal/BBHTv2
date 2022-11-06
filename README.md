@@ -7,9 +7,6 @@ Bug Bounty Hunting Tools is a script to install the most popular tools
 
 - [List of tools](#Categorized-the-list-of-tools)
 - [Installation](#installation)
-- [Docker Pull and Run Instructions](#instructions)
-
-
 
 
 ## Categorized the list of tools
