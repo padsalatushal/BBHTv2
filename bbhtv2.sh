@@ -484,10 +484,6 @@ chmod +x install
 echo "${BLUE} done${RESET}"
 echo ""
 
-echo "${BLUE} WAScan${RESET}"
-git clone https://github.com/m4ll0k/WAScan.git ~/tools/Frameworks/WAScan
-echo "${BLUE} done${RESET}"
-echo ""
 
 #install Blackwidow#
 echo "${BLUE} blackwidow${RESET}"
