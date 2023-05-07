@@ -447,7 +447,7 @@ echo ""
 echo "${BLUE} gitsearch${RESET}"
 git clone https://github.com/gwen001/github-search.git ~/tools/GIT/github-search
 cd ~/tools/GIT/github-search 
-sudo pip3 install -r  requirements3.txt
+sudo pip3 install -r  requirements.txt
 echo "${BLUE} done${RESET}"
 echo ""
 sar 1 1 >/dev/null
